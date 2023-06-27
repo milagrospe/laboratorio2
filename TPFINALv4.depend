@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1669211214 source:c:\users\usuario\documents\facultad\progra ii\tpfinalv4\main.c
+	"HeaderTPfinal.h"
+
+1669564387 c:\users\usuario\documents\facultad\progra ii\tpfinalv4\headertpfinal.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1669564162 source:c:\users\usuario\documents\facultad\progra ii\tpfinalv4\sourcetpfinal.c
+	"HeaderTPfinal.h"
+
+1669211214 source:c:\users\milagros\desktop\tp final labo ii v12 entrega final\tpfinalv12\main.c
+	"HeaderTPfinal.h"
+
+1669564387 c:\users\milagros\desktop\tp final labo ii v12 entrega final\tpfinalv12\headertpfinal.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1669564387 source:c:\users\milagros\desktop\tp final labo ii v12 entrega final\tpfinalv12\sourcetpfinal.c
+	"HeaderTPfinal.h"
+
